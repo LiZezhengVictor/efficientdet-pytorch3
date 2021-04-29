@@ -91,10 +91,6 @@ dog
 6. 运行get_dr_txt.py和get_gt_txt.py，在./input/detection-results和./input/ground-truth文件夹下生成对应的txt。  
 7. 运行get_map.py即可开始计算模型的mAP。
 
-### mAP目标检测精度计算更新
-更新了get_gt_txt.py、get_dr_txt.py和get_map.py文件。  
-get_map文件克隆自https://github.com/Cartucho/mAP  
-具体mAP计算过程可参考：https://www.bilibili.com/video/BV1zE411u7Vw
 
 ### Reference
 https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch   
