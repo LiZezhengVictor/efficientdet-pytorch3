@@ -23,20 +23,13 @@
 | COCO-Train2017 | [efficientdet-d6.pth](https://github.com/bubbliiiing/efficientdet-pytorch/releases/download/v1.0/efficientdet-d6.pth) | COCO-Val2017 | 1408x1408 | 50.7 
 | COCO-Train2017 | [efficientdet-d7.pth](https://github.com/bubbliiiing/efficientdet-pytorch/releases/download/v1.0/efficientdet-d7.pth) | COCO-Val2017 | 1536x1536 | 51.2  
 
-### 所需环境
-torch==1.2.0
+
 
 ### 文件下载  
 训练所需的pth可以在百度网盘下载。       
 包括Efficientdet-d0到d7所有权重。    
 链接: https://pan.baidu.com/s/1Kvv526YYSDJEf9BzWfIb3Q 提取码: f9g3  
 
-VOC数据集下载地址如下：  
-VOC2007+2012训练集    
-链接: https://pan.baidu.com/s/16pemiBGd-P9q2j7dZKGDFA 提取码: eiw9    
-
-VOC2007测试集   
-链接: https://pan.baidu.com/s/1BnMiFwlNwIWG9gsd4jHLig 提取码: dsda   
 
 ### 注意事项
 **1、训练前一定要注意权重文件与Efficientdet版本的对齐！**  
@@ -93,7 +86,6 @@ dog
 8、修改train.py的classes_path，运行train.py即可开始训练。
 
 ### 评估步骤
-评估过程可参考视频https://www.bilibili.com/video/BV1zE411u7Vw  
 步骤是一样的，不需要自己再建立get_dr_txt.py、get_gt_txt.py等文件。  
 1. 本文使用VOC格式进行评估。  
 2. 评估前将标签文件放在VOCdevkit文件夹下的VOC2007文件夹下的Annotation中。  
