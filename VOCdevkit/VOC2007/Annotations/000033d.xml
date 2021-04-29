@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ceramics</folder>
+	<filename>000033d.jpg</filename>
+	<path>D:\Desktop\大三下学期\工训大赛\训练集\pic\trashnew\train\ceramics\000033d.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>295</width>
+		<height>370</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ceramics</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>113</ymin>
+			<xmax>261</xmax>
+			<ymax>351</ymax>
+		</bndbox>
+	</object>
+</annotation>

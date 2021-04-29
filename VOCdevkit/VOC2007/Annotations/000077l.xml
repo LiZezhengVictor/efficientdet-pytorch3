@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fruit_potato</folder>
+	<filename>000077l.jpg</filename>
+	<path>D:\Desktop\大三下学期\工训大赛\训练集\pic\trashnew\train\fruit_potato\000077l.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fruit_potato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>294</ymin>
+			<xmax>413</xmax>
+			<ymax>626</ymax>
+		</bndbox>
+	</object>
+</annotation>

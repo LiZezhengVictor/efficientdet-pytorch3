@@ -1,0 +1,11 @@
+bottle
+brick
+can
+ceramics
+charge
+cigarette
+fruit_apple
+fruit_banana
+fruit_eggplant
+fruit_pepper
+fruit_potato

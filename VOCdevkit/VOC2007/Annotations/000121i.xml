@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fruit_banana</folder>
+	<filename>000121i.jpg</filename>
+	<path>D:\Desktop\大三下学期\工训大赛\训练集\pic\trashnew\train\fruit_banana\000121i.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fruit_banana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>242</xmin>
+			<ymin>46</ymin>
+			<xmax>567</xmax>
+			<ymax>704</ymax>
+		</bndbox>
+	</object>
+</annotation>

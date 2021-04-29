@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fruit_eggplant</folder>
+	<filename>000112j.jpg</filename>
+	<path>D:\Desktop\大三下学期\工训大赛\训练集\pic\trashnew\train\fruit_eggplant\000112j.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fruit_eggplant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>348</ymin>
+			<xmax>656</xmax>
+			<ymax>522</ymax>
+		</bndbox>
+	</object>
+</annotation>

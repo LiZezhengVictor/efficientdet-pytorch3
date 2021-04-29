@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fruit_pepper</folder>
+	<filename>000023tk.jpg</filename>
+	<path>D:\Desktop\大三下学期\工训大赛\训练集\pic\trashnew\test\fruit_pepper\000023tk.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fruit_pepper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>208</xmin>
+			<ymin>125</ymin>
+			<xmax>517</xmax>
+			<ymax>557</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>can</folder>
+	<filename>000102c.jpg</filename>
+	<path>D:\Desktop\大三下学期\工训大赛\训练集\pic\trashnew\train\can\000102c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>178</ymin>
+			<xmax>675</xmax>
+			<ymax>627</ymax>
+		</bndbox>
+	</object>
+</annotation>

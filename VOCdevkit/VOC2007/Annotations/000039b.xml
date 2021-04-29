@@ -1,0 +1,26 @@
+<annotation>
+	<folder>brick</folder>
+	<filename>000039b.jpg</filename>
+	<path>D:\Desktop\大三下学期\工训大赛\训练集\pic\trashnew\train\brick\000039b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>brick</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>191</xmin>
+			<ymin>61</ymin>
+			<xmax>498</xmax>
+			<ymax>699</ymax>
+		</bndbox>
+	</object>
+</annotation>

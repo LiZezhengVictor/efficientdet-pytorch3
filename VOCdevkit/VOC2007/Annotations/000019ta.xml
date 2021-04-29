@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bottle</folder>
+	<filename>000019ta.jpg</filename>
+	<path>D:\Desktop\大三下学期\工训大赛\训练集\pic\trashnew\test\bottle\000019ta.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>280</xmin>
+			<ymin>52</ymin>
+			<xmax>613</xmax>
+			<ymax>644</ymax>
+		</bndbox>
+	</object>
+</annotation>

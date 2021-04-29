@@ -1,0 +1,26 @@
+<annotation>
+	<folder>charge_large</folder>
+	<filename>000102e.jpg</filename>
+	<path>D:\Desktop\&#22823;&#19977;&#19979;&#23398;&#26399;\&#24037;&#35757;&#22823;&#36187;\&#35757;&#32451;&#38598;\pic\trashnew\train\charge_large\000102e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>charge</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>352</xmin>
+			<ymin>292</ymin>
+			<xmax>578</xmax>
+			<ymax>478</ymax>
+		</bndbox>
+	</object>
+</annotation>
